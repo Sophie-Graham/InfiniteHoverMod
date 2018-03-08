@@ -1,0 +1,2 @@
+# InfiniteHoverMod
+Infinite Hover Mod
